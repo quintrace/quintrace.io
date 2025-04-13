@@ -1,0 +1,23 @@
+{
+  "name": "QuinTrace - Cyber Security Analysis",
+  "short_name": "QuinTrace",
+  "description": "Advanced cyber attack analysis and forensic investigation tools for modern security operations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#130e30",
+  "theme_color": "#8a1344",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
